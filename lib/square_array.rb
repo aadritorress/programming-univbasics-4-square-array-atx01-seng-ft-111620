@@ -6,7 +6,7 @@
 counter = 0 
 while counter < array.length
 array[counter]
-new_array << array[counter]
+new_array << array[counter] ** 
 counter += 1 
 end 
 # while array do |integer|
